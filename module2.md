@@ -18,3 +18,6 @@ In this module, I learned how to write PL/SQL programs that can add, update and 
 # Challenge Questions Answer:
 - To modify the code if my weekly savings amount changed, I would change the value assigned to the  weekly_savings  variable.
 - To add a bonus, add a new variable for the bonus amount and add it to  total_savings  before the output.
+
+# Code Output
+![mod2 output](screenshot(189).png)
