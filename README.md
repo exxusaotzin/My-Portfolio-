@@ -11,3 +11,5 @@ Welcome to my e-portfolio! Here are the different modules and projects I've comp
 4. [Module 4: Working with Data (DML)](module4.md)
 
 5. [Module 5: Advanced Query Writing](module5.md)
+
+[Guide Questions](guide_question_answers.md)
