@@ -1,4 +1,4 @@
-# Module 2: Making Decisions with IF Statements
+# Module 3: Making Decisions with IF Statements
 
 # My code
 DECLARE
