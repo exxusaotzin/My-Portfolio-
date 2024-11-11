@@ -1,6 +1,6 @@
 # Module 2: Making Decisions with IF Statements
 
-#My code
+# My code
 DECLARE
 gen_average NUMBER := 95;
 
@@ -14,7 +14,7 @@ END IF;
 END;
 
 
-#What I learned
+# What I learned
 In this module, I learned how to use if statements to make decisions based on donditions.
 
 # Challenge Questions Answer:
@@ -22,4 +22,4 @@ In this module, I learned how to use if statements to make decisions based on do
 - Yes, by uing is statement.
 
 # Code Output
-![mod2 output](images/module-2-output.png)
+![module_3_output](images/module-3-output.png)
