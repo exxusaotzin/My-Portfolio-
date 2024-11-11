@@ -15,6 +15,3 @@ END;
 
 # What I learned 
 I learned how to use DBMS_OUTPUT.PUT_LINE to print out information. 
-
-# Code Output
-![](screenshot (188).png)
