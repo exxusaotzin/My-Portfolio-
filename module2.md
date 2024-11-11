@@ -12,7 +12,7 @@ DBMS_OUTPUT.PUT_LINE('After ' || week || ' weeks, you have saved a total of $' |
 
 END;
 
-#What I learned
+# What I learned
 In this module, I learned how to write PL/SQL programs that can add, update and show the information.
 
 # Challenge Questions Answer:
