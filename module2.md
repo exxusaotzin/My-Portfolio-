@@ -20,4 +20,4 @@ In this module, I learned how to write PL/SQL programs that can add, update and 
 - To add a bonus, add a new variable for the bonus amount and add it to  total_savings  before the output.
 
 # Code Output
-![mod2 output](screenshot(189).png)
+![mod2 output](module 2 output.png)
