@@ -1,4 +1,4 @@
-Welcome to my e-portfolio! Here are the different modules and projects I've completed.
+Welcome to my e-portfolio! I'm Sarah Lomerio. Here are the different modules and projects I've completed.
 
 ## Table of Contents
 
